@@ -1,0 +1,7 @@
+transformers
+datasets
+evaluate
+jiwer
+librosa
+--upgrade tensorflow
+torch torchvision torchaudio -f https://download.pytorch.org/whl/cu111/torch_stable.html 
